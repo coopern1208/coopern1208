@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Cooper 👋
 
-<!--
-**coopern1208/coopern1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🪐 Theoretical Physicist | Cosmology | Fundamental Particle Physics | AI for Mathematical Reasoning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 About Me
+- 🧠 I’m a **theoretical and computational physicist** who uses **AI** to understand the enigmas of the universe.  
+- 🤖 My goal is to **build AI systems capable of discovering and reasoning about the universe’s fundamental laws**.  
+- 🌍 Currently exploring **AI-driven modeling**, **Topological Data Analysis**, and **Lattice Simulation**.  
+- 🧩 Ask me about: *quantum theory, general relativity, computational methods, and the philosophy of physics.*
+
+---
