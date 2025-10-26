@@ -1,6 +1,5 @@
 ## Hi there, I'm Cooper 👋
-
-### 🪐 Theoretical Physicist | Cosmology | Fundamental Particle Physics | AI for Mathematical Reasoning
+🪐 Theoretical Physicist | Cosmology | Fundamental Particle Physics | AI for Mathematical Reasoning
 
 ### 🔭 About Me
 - 🧠 I’m a **theoretical and computational physicist** who uses **AI** to understand the enigmas of the universe.  
