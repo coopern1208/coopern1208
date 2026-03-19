@@ -1,7 +1,16 @@
-## Hi there, I'm Cooper 👋
-Theoretical Physicist | Cosmology | Fundamental Particle Physics | AI for Mathematical Reasoning
+# Hi there, I'm Cooper 👋
+**Ph.D. Researcher @ Brown** | Theoretical Physics × AI | LLMs · Reinforcement Learning
+
+---
 
 ### About Me
-- I’m a **theoretical and computational physicist** who uses **AI** to understand the enigmas of the universe.  
-- My goal is to **build AI systems capable of discovering and reasoning about the universe’s fundamental laws**.  
-- Currently exploring **AI-driven modeling**, **Topological Data Analysis**, and **Cosmological Simulation**.  
+- I build AI systems that **reason about physics**. My domain-specific LLM autonomously proposes and validates particle physics theories using formal verification, compressing decades of research into minutes. Results submitted to **Nature Physics**.
+- Broadly interested in **AI for Science**, **hallucination-free intelligent systems**, and pushing the frontier of what machines can formally reason about.
+- Currently: LLMs for theoretical physics.
+- **Open to industry opportunities** in AI/ML, AI for Science, and next-generation reliable intelligence.
+
+---
+
+### Research Highlights
+- 🧠 Built a 25M-parameter transformer trained on 100k synthetic particle-physics theories, fine-tuned with GRPO; rediscovered the Standard Model and predicted the top quark mass (~174.8 GeV) to within 2% error using only pre-1990 data.
+- 🌌 Published on gravitational waves, dark photon halos, and Higgs inflation.
