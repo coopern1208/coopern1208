@@ -12,5 +12,5 @@
 ---
 
 ### Research Highlights
-- 🧠 Built a 25M-parameter transformer trained on 100k synthetic particle-physics theories, fine-tuned with GRPO; rediscovered the Standard Model and predicted the top quark mass (~174.8 GeV) to within 2% error using only pre-1990 data.
+- 🧠 Built a 25M-parameter transformer trained on 100k synthetic particle-physics theories, fine-tuned with GRPO; rediscovered the Standard Model and predicted the top quark mass within 1 sigma away from the modern LHC measurement using only pre-1990 data.
 - 🌌 Published on gravitational waves, dark photon halos, and Higgs inflation.
