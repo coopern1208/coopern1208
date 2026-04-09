@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- I build AI systems that **reason about physics**. My domain-specific LLM autonomously proposes and validates particle physics theories using formal verification, compressing decades of research into minutes. Results submitted to **Nature Physics**.
+- I build AI systems that **reason about physics**. My domain-specific LLM autonomously proposes and validates particle physics theories using formal verification, compressing decades of research into minutes.
 - Broadly interested in **AI for Science**, **hallucination-free LLM**, and pushing the frontier of what machines can formally reason about.
 - Currently: LLMs for theoretical physics.
 - **Open to industry opportunities** in AI/ML, AI for Science, and next-generation reliable intelligence.
