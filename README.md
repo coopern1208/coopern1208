@@ -12,5 +12,5 @@
 ---
 
 ### Research Highlights
-- 🧠 Built a 25M-parameter transformer trained on 100k synthetic particle-physics theories, fine-tuned with GRPO; rediscovered the Standard Model and predicted the top quark mass within 1 sigma away from the modern LHC measurement using only pre-1990 data.
-- 🌌 Published on gravitational waves, dark photon halos, and Higgs inflation.
+- Built a domain-specific LLM trained on 100k synthetic particle-physics theories, fine-tuned with GRPO; rediscovered the Standard Model using only pre-1990 data; predicated the existence of top quark, tau neutrino, and Higgs boson, as well as their masses within 1 sigma from the modern measurement at Large Hadron Collider. 
+- Published on gravitational waves, dark matter, galaxy formation, and cosmic inflation in the early universe.
